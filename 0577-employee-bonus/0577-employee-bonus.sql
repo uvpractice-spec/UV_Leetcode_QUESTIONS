@@ -19,6 +19,10 @@ result_df = Employee_df.join(
           "bonus"
         )
 
+
+% make the note that used 
+% F in bracket 
+% isNUll() is case sensitive and function ()
 */
 
 

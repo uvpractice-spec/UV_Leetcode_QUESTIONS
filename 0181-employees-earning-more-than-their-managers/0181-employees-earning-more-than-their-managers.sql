@@ -1,4 +1,4 @@
-# Write your MySQL query statement below
+# Write your MySQL query statement below this is sql
 
 select Emp.name as Employee
 from Employee Emp

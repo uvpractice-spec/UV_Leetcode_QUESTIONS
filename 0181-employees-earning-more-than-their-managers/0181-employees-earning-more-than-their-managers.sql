@@ -1,5 +1,4 @@
-# Write your MySQL query statement below this is sql
-
+# Write your MySQL query statement below this is sql now
 select Emp.name as Employee
 from Employee Emp
 inner join Employee mg

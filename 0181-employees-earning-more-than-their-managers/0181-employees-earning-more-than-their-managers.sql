@@ -2,6 +2,6 @@
 
 select Emp.name as Employee
 from Employee Emp
-left join Employee mg
+inner join Employee mg
 on Emp.managerId = mg.id
 where Emp.salary > mg.salary

@@ -16,6 +16,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/uvpractice-spec/SQL-QUESTION/tree/main/0007-reverse-integer/) | Medium |
+| [0009-palindrome-number](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0009-palindrome-number/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |

@@ -22,6 +22,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0041-first-missing-positive](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0041-first-missing-positive/) | Hard |
 | [0242-valid-anagram](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0242-valid-anagram/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -31,4 +32,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0242-valid-anagram/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0041-first-missing-positive](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0041-first-missing-positive/) | Hard |
 <!---LeetCode Topics End-->

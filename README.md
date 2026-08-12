@@ -38,6 +38,7 @@
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0031-next-permutation/) | Medium |
+| [0039-combination-sum](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0039-combination-sum/) | Medium |
 | [0041-first-missing-positive](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0041-first-missing-positive/) | Hard |
 | [0066-plus-one](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0066-plus-one/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -66,4 +67,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0377-combination-sum-iv](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0377-combination-sum-iv/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0039-combination-sum](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0039-combination-sum/) | Medium |
 <!---LeetCode Topics End-->

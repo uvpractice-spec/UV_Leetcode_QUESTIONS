@@ -16,6 +16,7 @@
 | [0620-not-boring-movies](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0620-not-boring-movies/) | Easy |
 | [0627-swap-sex-of-employees](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0627-swap-sex-of-employees/) | Easy |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/1050-actors-and-directors-who-cooperated-at-least-three-times/) | Easy |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |

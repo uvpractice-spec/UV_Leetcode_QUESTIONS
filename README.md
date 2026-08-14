@@ -29,6 +29,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0022-generate-parentheses](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0022-generate-parentheses/) | Medium |
 | [0242-valid-anagram](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0242-valid-anagram/) | Easy |
 | [0556-next-greater-element-iii](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0556-next-greater-element-iii/) | Medium |
 ## Sorting
@@ -77,12 +78,14 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0022-generate-parentheses/) | Medium |
 | [0377-combination-sum-iv](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0377-combination-sum-iv/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0416-partition-equal-subset-sum/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0022-generate-parentheses](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0046-permutations/) | Medium |
@@ -101,4 +104,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->

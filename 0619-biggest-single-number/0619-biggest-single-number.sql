@@ -1,5 +1,12 @@
 # Write your MySQL query statement below
-with cte as
+SELECT MAX(num) AS num
+FROM (
+    SELECT num
+    FROM MyNumbers
+    GROUP BY num
+    HAVING COUNT(num) = 1
+) AS num;
+/*with cte as
 (select num
 from MyNumbers
 group by num
@@ -9,6 +16,8 @@ select
 case when COUNT(*) > 0 then  max(num)
 else NULL end as num
 from cte
+
+/*
 
 /*
 

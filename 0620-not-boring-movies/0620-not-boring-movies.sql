@@ -1,4 +1,12 @@
 # Write your MySQL query statement below
+
+
+SELECT id, movie, description, rating
+FROM Cinema
+WHERE id % 2 <> 0 
+  AND description <> 'boring'
+ORDER BY rating DESC;
+/*
 with oddcte as
 (select *
 from Cinema
@@ -8,7 +16,7 @@ select id,movie,description,rating
 from oddcte
 where  description <> 'boring'
 order by rating desc
-
+*/
 
 /*
 

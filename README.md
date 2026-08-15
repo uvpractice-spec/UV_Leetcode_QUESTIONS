@@ -28,6 +28,7 @@
 | [1693-daily-leads-and-partners](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/1693-daily-leads-and-partners/) | Easy |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/1741-find-total-time-spent-by-each-employee/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
+| [1873-calculate-special-bonus](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/1873-calculate-special-bonus/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |

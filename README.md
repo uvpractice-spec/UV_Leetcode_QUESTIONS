@@ -26,6 +26,7 @@
 | [1587-bank-account-summary-ii](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/1587-bank-account-summary-ii/) | Easy |
 | [1683-invalid-tweets](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/1683-invalid-tweets/) | Easy |
 | [1693-daily-leads-and-partners](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/1693-daily-leads-and-partners/) | Easy |
+| [1741-find-total-time-spent-by-each-employee](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/1741-find-total-time-spent-by-each-employee/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |

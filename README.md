@@ -24,6 +24,7 @@
 | [1407-top-travellers](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/1407-top-travellers/) | Easy |
 | [1484-group-sold-products-by-the-date](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/1484-group-sold-products-by-the-date/) | Easy |
 | [1587-bank-account-summary-ii](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/1587-bank-account-summary-ii/) | Easy |
+| [1683-invalid-tweets](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/1683-invalid-tweets/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |

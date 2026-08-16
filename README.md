@@ -21,6 +21,7 @@
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/1050-actors-and-directors-who-cooperated-at-least-three-times/) | Easy |
 | [1280-students-and-examinations](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/1280-students-and-examinations/) | Easy |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
+| [1393-capital-gainloss](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/1393-capital-gainloss/) | Medium |
 | [1407-top-travellers](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/1407-top-travellers/) | Easy |
 | [1484-group-sold-products-by-the-date](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/1484-group-sold-products-by-the-date/) | Easy |
 | [1587-bank-account-summary-ii](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/1587-bank-account-summary-ii/) | Easy |

@@ -30,6 +30,7 @@
 | [1757-recyclable-and-low-fat-products](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 | [1873-calculate-special-bonus](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/1873-calculate-special-bonus/) | Easy |
 | [1890-the-latest-login-in-2020](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/1890-the-latest-login-in-2020/) | Easy |
+| [1965-employees-with-missing-information](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/1965-employees-with-missing-information/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |

@@ -19,7 +19,7 @@ public:
             fast = fast->next->next;    
 
             if (slow == fast) {
-                return true; // Cycle detected!
+                return true; 
             }
         }
 

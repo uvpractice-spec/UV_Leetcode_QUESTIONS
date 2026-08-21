@@ -9,6 +9,7 @@
 | [0181-employees-earning-more-than-their-managers](https://github.com/uvpractice-spec/SQL-QUESTION/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0182-duplicate-emails](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0182-duplicate-emails/) | Easy |
 | [0183-customers-who-never-order](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0183-customers-who-never-order/) | Easy |
+| [0511-game-play-analysis-i](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0511-game-play-analysis-i/) | Easy |
 | [0577-employee-bonus](https://github.com/uvpractice-spec/SQL-QUESTION/tree/main/0577-employee-bonus/) | Easy |
 | [0584-find-customer-referee](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0584-find-customer-referee/) | Easy |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |

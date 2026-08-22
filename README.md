@@ -100,6 +100,7 @@
 | [0090-subsets-ii](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0090-subsets-ii/) | Medium |
 | [0136-single-number](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0137-single-number-ii/) | Medium |
+| [0191-number-of-1-bits](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0191-number-of-1-bits/) | Easy |
 | [0260-single-number-iii](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0260-single-number-iii/) | Medium |
 | [0268-missing-number](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -195,4 +196,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0268-missing-number/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0191-number-of-1-bits](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0191-number-of-1-bits/) | Easy |
 <!---LeetCode Topics End-->

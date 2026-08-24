@@ -92,6 +92,7 @@
 | [0179-largest-number](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0179-largest-number/) | Medium |
 | [0260-single-number-iii](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0260-single-number-iii/) | Medium |
 | [0268-missing-number](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0268-missing-number/) | Easy |
+| [0283-move-zeroes](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0377-combination-sum-iv](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0377-combination-sum-iv/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0416-partition-equal-subset-sum/) | Medium |
@@ -133,6 +134,7 @@
 | [0125-valid-palindrome](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0283-move-zeroes](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0283-move-zeroes/) | Easy |
 | [0556-next-greater-element-iii](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0556-next-greater-element-iii/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |

@@ -70,6 +70,7 @@
 | ------- | ------- |
 | [0047-permutations-ii](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0047-permutations-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0049-group-anagrams/) | Medium |
+| [0169-majority-element](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0169-majority-element/) | Easy |
 | [0179-largest-number](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0179-largest-number/) | Medium |
 | [0217-contains-duplicate](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0268-missing-number/) | Easy |
@@ -90,6 +91,7 @@
 | [0090-subsets-ii](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0090-subsets-ii/) | Medium |
 | [0136-single-number](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0137-single-number-ii/) | Medium |
+| [0169-majority-element](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0169-majority-element/) | Easy |
 | [0179-largest-number](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0179-largest-number/) | Medium |
 | [0217-contains-duplicate](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0217-contains-duplicate/) | Easy |
 | [0260-single-number-iii](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0260-single-number-iii/) | Medium |
@@ -172,6 +174,7 @@
 | [0049-group-anagrams](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0049-group-anagrams/) | Medium |
 | [0141-linked-list-cycle](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0169-majority-element](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0169-majority-element/) | Easy |
 | [0205-isomorphic-strings](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0268-missing-number/) | Easy |
@@ -216,6 +219,15 @@
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0169-majority-element/) | Easy |
 | [0190-reverse-bits](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0191-number-of-1-bits/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0169-majority-element/) | Easy |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->

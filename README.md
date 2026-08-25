@@ -86,6 +86,7 @@
 | [0046-permutations](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0047-permutations-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0049-group-anagrams/) | Medium |
+| [0053-maximum-subarray](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0066-plus-one/) | Easy |
 | [0078-subsets](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0090-subsets-ii/) | Medium |
@@ -144,6 +145,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0022-generate-parentheses/) | Medium |
+| [0053-maximum-subarray](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0053-maximum-subarray/) | Medium |
 | [0338-counting-bits](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0338-counting-bits/) | Easy |
 | [0377-combination-sum-iv](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0377-combination-sum-iv/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0416-partition-equal-subset-sum/) | Medium |
@@ -219,6 +221,7 @@
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0169-majority-element/) | Easy |
 | [0190-reverse-bits](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0191-number-of-1-bits/) | Easy |

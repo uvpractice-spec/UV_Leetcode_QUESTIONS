@@ -94,6 +94,7 @@
 | [0090-subsets-ii](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0090-subsets-ii/) | Medium |
 | [0136-single-number](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0137-single-number-ii/) | Medium |
+| [0152-maximum-product-subarray](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0169-majority-element](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0169-majority-element/) | Easy |
 | [0179-largest-number](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0179-largest-number/) | Medium |
 | [0217-contains-duplicate](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0217-contains-duplicate/) | Easy |
@@ -151,6 +152,7 @@
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0022-generate-parentheses/) | Medium |
 | [0053-maximum-subarray](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0053-maximum-subarray/) | Medium |
+| [0152-maximum-product-subarray](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0338-counting-bits](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0338-counting-bits/) | Easy |
 | [0377-combination-sum-iv](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0377-combination-sum-iv/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0416-partition-equal-subset-sum/) | Medium |

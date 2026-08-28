@@ -45,6 +45,7 @@
 | [0007-reverse-integer](https://github.com/uvpractice-spec/SQL-QUESTION/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0009-palindrome-number/) | Easy |
 | [0012-integer-to-roman](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0012-integer-to-roman/) | Medium |
+| [0013-roman-to-integer](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0013-roman-to-integer/) | Easy |
 | [0050-powx-n](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0050-powx-n/) | Medium |
 | [0066-plus-one](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0067-add-binary/) | Easy |
@@ -58,6 +59,7 @@
 | ------- | ------- |
 | [0008-string-to-integer-atoi](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0012-integer-to-roman](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0012-integer-to-roman/) | Medium |
+| [0013-roman-to-integer](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0022-generate-parentheses/) | Medium |
@@ -187,6 +189,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0012-integer-to-roman](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0012-integer-to-roman/) | Medium |
+| [0013-roman-to-integer](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0049-group-anagrams](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0049-group-anagrams/) | Medium |
 | [0141-linked-list-cycle](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0141-linked-list-cycle/) | Easy |

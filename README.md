@@ -112,6 +112,7 @@
 | [0645-set-mismatch](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0645-set-mismatch/) | Easy |
 | [0918-maximum-sum-circular-subarray](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
+| [1191-k-concatenation-maximum-sum](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/1191-k-concatenation-maximum-sum/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -164,6 +165,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
+| [1191-k-concatenation-maximum-sum](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/1191-k-concatenation-maximum-sum/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |

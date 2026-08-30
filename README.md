@@ -39,6 +39,7 @@
 | [1795-rearrange-products-table](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/1795-rearrange-products-table/) | Easy |
 | [1873-calculate-special-bonus](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/1873-calculate-special-bonus/) | Easy |
 | [1890-the-latest-login-in-2020](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/1890-the-latest-login-in-2020/) | Easy |
+| [1934-confirmation-rate](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/1934-confirmation-rate/) | Medium |
 | [1965-employees-with-missing-information](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/1965-employees-with-missing-information/) | Easy |
 ## Math
 | Problem Name | Difficulty |

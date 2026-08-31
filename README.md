@@ -117,6 +117,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0645-set-mismatch](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0645-set-mismatch/) | Easy |
 | [0918-maximum-sum-circular-subarray](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [0974-subarray-sums-divisible-by-k](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
 | [1191-k-concatenation-maximum-sum](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/1191-k-concatenation-maximum-sum/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
@@ -210,6 +211,7 @@
 | [0268-missing-number](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0268-missing-number/) | Easy |
 | [0525-contiguous-array](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0974-subarray-sums-divisible-by-k](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/3170-lexicographically-minimum-string-after-removing-stars/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
@@ -277,4 +279,5 @@
 | ------- | ------- |
 | [0525-contiguous-array](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0974-subarray-sums-divisible-by-k](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 <!---LeetCode Topics End-->

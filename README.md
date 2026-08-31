@@ -110,6 +110,7 @@
 | [0268-missing-number](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0303-range-sum-query-immutable](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0377-combination-sum-iv](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0377-combination-sum-iv/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0477-total-hamming-distance](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0477-total-hamming-distance/) | Medium |
@@ -277,7 +278,12 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0303-range-sum-query-immutable](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0525-contiguous-array](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0303-range-sum-query-immutable](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0303-range-sum-query-immutable/) | Easy |
 <!---LeetCode Topics End-->

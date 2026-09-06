@@ -91,6 +91,7 @@
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0031-next-permutation/) | Medium |
+| [0033-search-in-rotated-sorted-array](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0039-combination-sum](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0040-combination-sum-ii/) | Medium |
 | [0041-first-missing-positive](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0041-first-missing-positive/) | Hard |
@@ -255,6 +256,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0268-missing-number](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0268-missing-number/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |

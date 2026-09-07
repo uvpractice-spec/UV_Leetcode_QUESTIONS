@@ -53,6 +53,7 @@
 | [0050-powx-n](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0050-powx-n/) | Medium |
 | [0066-plus-one](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0067-add-binary/) | Easy |
+| [0204-count-primes](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0204-count-primes/) | Medium |
 | [0231-power-of-two](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0268-missing-number/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0371-sum-of-two-integers/) | Medium |
@@ -108,6 +109,7 @@
 | [0152-maximum-product-subarray](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0169-majority-element](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0169-majority-element/) | Easy |
 | [0179-largest-number](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0179-largest-number/) | Medium |
+| [0204-count-primes](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0204-count-primes/) | Medium |
 | [0217-contains-duplicate](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0217-contains-duplicate/) | Easy |
 | [0260-single-number-iii](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0260-single-number-iii/) | Medium |
 | [0268-missing-number](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0268-missing-number/) | Easy |
@@ -293,4 +295,24 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0303-range-sum-query-immutable/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0204-count-primes/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0204-count-primes/) | Medium |
+## Primality Test
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0204-count-primes/) | Medium |
+## Sieve Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0204-count-primes/) | Medium |
+## Prime Number Sieve
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0204-count-primes/) | Medium |
 <!---LeetCode Topics End-->

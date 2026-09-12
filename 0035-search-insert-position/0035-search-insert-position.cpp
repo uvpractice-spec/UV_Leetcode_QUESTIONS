@@ -1,7 +1,8 @@
 class Solution {
 public:
     int searchInsert(vector<int>& nums, int target) {
-        
+        ios_base::sync_with_stdio(false);
+        cin.tie(NULL);
         int left = 0;
         int right = nums.size() - 1;
         

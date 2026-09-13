@@ -6,30 +6,35 @@ public:
         cin.tie(NULL);
 
         int write = 0; 
-        int i = 0;     
+        int read = 0;  
+        int n = chars.size();
 
-        while (i < chars.size()) {
-            char currentChar = chars[i];
-            int count = 0;
+        while (read < n) {
+            char currChar = chars[read];
+            int start = read;
 
-          
-            while (i < chars.size() && chars[i] == currentChar) {
-                i++;
-                count++;
+            while (read < n && chars[read] == currChar) {
+                read++;
             }
 
-          
-            chars[write++] = currentChar;
+            int count = read - start;
 
-           
+            
+            chars[write++] = currChar;
+
             if (count > 1) {
-                string countStr = to_string(count);
-                for (char c : countStr) {
-                    chars[write++] = c;
+                int digitsStart = write;
+
+                while (count > 0) {
+                    chars[write++] = (count % 10) + '0';
+                    count /= 10;
                 }
+
+                
+                reverse(chars.begin() + digitsStart, chars.begin() + write);
             }
         }
 
-        return write; 
+        return write;
     }
 };

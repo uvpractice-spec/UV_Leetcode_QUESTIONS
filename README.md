@@ -103,6 +103,7 @@
 | [0047-permutations-ii](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0047-permutations-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0053-maximum-subarray/) | Medium |
+| [0055-jump-game](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0055-jump-game/) | Medium |
 | [0066-plus-one](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0066-plus-one/) | Easy |
 | [0078-subsets](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0090-subsets-ii/) | Medium |
@@ -179,6 +180,7 @@
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0022-generate-parentheses/) | Medium |
 | [0053-maximum-subarray](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0053-maximum-subarray/) | Medium |
+| [0055-jump-game](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0055-jump-game/) | Medium |
 | [0118-pascals-triangle](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0118-pascals-triangle/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0338-counting-bits](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0338-counting-bits/) | Easy |
@@ -235,6 +237,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0055-jump-game](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0055-jump-game/) | Medium |
 | [0179-largest-number](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0179-largest-number/) | Medium |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/3170-lexicographically-minimum-string-after-removing-stars/) | Medium |
 ## Stack

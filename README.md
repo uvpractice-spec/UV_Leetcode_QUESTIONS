@@ -99,6 +99,7 @@
 | [0039-combination-sum](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0040-combination-sum-ii/) | Medium |
 | [0041-first-missing-positive](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0041-first-missing-positive/) | Hard |
+| [0045-jump-game-ii](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0045-jump-game-ii/) | Medium |
 | [0046-permutations](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0047-permutations-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0049-group-anagrams/) | Medium |
@@ -179,6 +180,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0022-generate-parentheses/) | Medium |
+| [0045-jump-game-ii](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0055-jump-game/) | Medium |
 | [0118-pascals-triangle](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0118-pascals-triangle/) | Easy |
@@ -237,6 +239,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0045-jump-game-ii](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0055-jump-game/) | Medium |
 | [0179-largest-number](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0179-largest-number/) | Medium |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/3170-lexicographically-minimum-string-after-removing-stars/) | Medium |

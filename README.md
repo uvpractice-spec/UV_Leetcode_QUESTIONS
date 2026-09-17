@@ -132,6 +132,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
 | [1191-k-concatenation-maximum-sum](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/1191-k-concatenation-maximum-sum/) | Medium |
+| [1306-jump-game-iii](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/1306-jump-game-iii/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [2321-maximum-score-of-spliced-array](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/2321-maximum-score-of-spliced-array/) | Hard |
 ## Bit Manipulation
@@ -329,4 +330,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0204-count-primes/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1306-jump-game-iii](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/1306-jump-game-iii/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1306-jump-game-iii](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/1306-jump-game-iii/) | Medium |
 <!---LeetCode Topics End-->

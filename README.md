@@ -89,6 +89,7 @@
 | [0217-contains-duplicate](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0268-missing-number/) | Easy |
 | [0645-set-mismatch](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0645-set-mismatch/) | Easy |
+| [1340-jump-game-v](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/1340-jump-game-v/) | Hard |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -133,6 +134,7 @@
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
 | [1191-k-concatenation-maximum-sum](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/1191-k-concatenation-maximum-sum/) | Medium |
 | [1306-jump-game-iii](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/1306-jump-game-iii/) | Medium |
+| [1340-jump-game-v](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/1340-jump-game-v/) | Hard |
 | [1345-jump-game-iv](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/1345-jump-game-iv/) | Hard |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [2321-maximum-score-of-spliced-array](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/2321-maximum-score-of-spliced-array/) | Hard |
@@ -193,6 +195,7 @@
 | [0918-maximum-sum-circular-subarray](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
 | [1191-k-concatenation-maximum-sum](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/1191-k-concatenation-maximum-sum/) | Medium |
+| [1340-jump-game-v](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/1340-jump-game-v/) | Hard |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [2321-maximum-score-of-spliced-array](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/2321-maximum-score-of-spliced-array/) | Hard |
 ## Backtracking

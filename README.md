@@ -127,6 +127,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0477-total-hamming-distance](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0477-total-hamming-distance/) | Medium |
 | [0496-next-greater-element-i](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0496-next-greater-element-i/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0525-contiguous-array](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0645-set-mismatch](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0645-set-mismatch/) | Easy |
@@ -256,6 +257,7 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0020-valid-parentheses/) | Easy |
 | [0496-next-greater-element-i](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0496-next-greater-element-i/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0503-next-greater-element-ii/) | Medium |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/3170-lexicographically-minimum-string-after-removing-stars/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -351,4 +353,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0496-next-greater-element-i/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0503-next-greater-element-ii/) | Medium |
 <!---LeetCode Topics End-->

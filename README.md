@@ -53,6 +53,7 @@
 | [0050-powx-n](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0050-powx-n/) | Medium |
 | [0066-plus-one](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0067-add-binary/) | Easy |
+| [0202-happy-number](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0202-happy-number/) | Easy |
 | [0204-count-primes](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0204-count-primes/) | Medium |
 | [0231-power-of-two](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0268-missing-number/) | Easy |
@@ -169,6 +170,7 @@
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0202-happy-number](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0202-happy-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -179,6 +181,7 @@
 | [0125-valid-palindrome](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0202-happy-number](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0202-happy-number/) | Easy |
 | [0283-move-zeroes](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0283-move-zeroes/) | Easy |
 | [0443-string-compression](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0443-string-compression/) | Medium |
 | [0556-next-greater-element-iii](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0556-next-greater-element-iii/) | Medium |
@@ -231,6 +234,7 @@
 | [0141-linked-list-cycle](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0169-majority-element](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0169-majority-element/) | Easy |
+| [0202-happy-number](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0202-happy-number/) | Easy |
 | [0205-isomorphic-strings](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0268-missing-number/) | Easy |

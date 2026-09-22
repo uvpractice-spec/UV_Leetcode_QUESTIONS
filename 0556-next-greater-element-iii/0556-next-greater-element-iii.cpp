@@ -1,8 +1,8 @@
 class Solution {
 public:
     int nextGreaterElement(int n) {
-       // std::string s = std::to_string(n)
-        std::string str= to_string(n);
+       
+        string str= to_string(n);
 
         int len = str.size();
         int pivot=-1;
@@ -21,19 +21,19 @@ public:
         for(int i=len-1;i>pivot;i--){
                 
                 if(str[i]>str[pivot]){
-                    std::swap(str[pivot],str[i]);
+                    swap(str[pivot],str[i]);
                     break;
                 }
         }
 
-         std::reverse(str.begin() + pivot + 1,str.end());
+         reverse(str.begin() + pivot + 1,str.end());
 
-         long long result = std::stoll(str);
+         long long result = stoll(str);
 
          if (result > INT_MAX) {
-    return -1;
-}
+            return -1;
+         }
 
-     return static_cast<int>(result);
+         return static_cast<int>(result);
     }
 };

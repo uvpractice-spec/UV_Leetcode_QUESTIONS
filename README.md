@@ -134,6 +134,7 @@
 | [0645-set-mismatch](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0645-set-mismatch/) | Easy |
 | [0918-maximum-sum-circular-subarray](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
+| [1019-next-greater-node-in-linked-list](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
 | [1191-k-concatenation-maximum-sum](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/1191-k-concatenation-maximum-sum/) | Medium |
 | [1306-jump-game-iii](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/1306-jump-game-iii/) | Medium |
@@ -262,6 +263,7 @@
 | [0020-valid-parentheses](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0020-valid-parentheses/) | Easy |
 | [0496-next-greater-element-i](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0503-next-greater-element-ii/) | Medium |
+| [1019-next-greater-node-in-linked-list](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/3170-lexicographically-minimum-string-after-removing-stars/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -283,6 +285,7 @@
 | [0092-reverse-linked-list-ii](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0092-reverse-linked-list-ii/) | Medium |
 | [0141-linked-list-cycle](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [1019-next-greater-node-in-linked-list](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -358,4 +361,5 @@
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0503-next-greater-element-ii/) | Medium |
+| [1019-next-greater-node-in-linked-list](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 <!---LeetCode Topics End-->

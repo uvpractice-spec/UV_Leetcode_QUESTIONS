@@ -69,6 +69,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0022-generate-parentheses/) | Medium |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0038-count-and-say](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0038-count-and-say/) | Medium |
 | [0049-group-anagrams](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0058-length-of-last-word/) | Easy |
@@ -178,6 +179,7 @@
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0031-next-permutation](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0031-next-permutation/) | Medium |
 | [0125-valid-palindrome](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0141-linked-list-cycle/) | Easy |
@@ -362,4 +364,20 @@
 | [0496-next-greater-element-i](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0503-next-greater-element-ii/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Z Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Knuth–Morris–Pratt Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Boyer–Moore String-Search Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 <!---LeetCode Topics End-->

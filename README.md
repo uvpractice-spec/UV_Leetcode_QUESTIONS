@@ -53,6 +53,7 @@
 | [0050-powx-n](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0050-powx-n/) | Medium |
 | [0066-plus-one](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0067-add-binary/) | Easy |
+| [0070-climbing-stairs](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0070-climbing-stairs/) | Easy |
 | [0202-happy-number](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0202-happy-number/) | Easy |
 | [0204-count-primes](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0204-count-primes/) | Medium |
 | [0231-power-of-two](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0231-power-of-two/) | Easy |
@@ -195,6 +196,7 @@
 | [0045-jump-game-ii](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0055-jump-game/) | Medium |
+| [0070-climbing-stairs](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0070-climbing-stairs/) | Easy |
 | [0118-pascals-triangle](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0118-pascals-triangle/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0338-counting-bits](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0338-counting-bits/) | Easy |
@@ -380,4 +382,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->

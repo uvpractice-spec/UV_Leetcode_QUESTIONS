@@ -190,6 +190,7 @@
 | [0283-move-zeroes](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0283-move-zeroes/) | Easy |
 | [0443-string-compression](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0443-string-compression/) | Medium |
 | [0556-next-greater-element-iii](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0556-next-greater-element-iii/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -290,6 +291,7 @@
 | [0092-reverse-linked-list-ii](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0092-reverse-linked-list-ii/) | Medium |
 | [0141-linked-list-cycle](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1019-next-greater-node-in-linked-list](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |

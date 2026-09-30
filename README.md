@@ -59,6 +59,7 @@
 | [0204-count-primes](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0204-count-primes/) | Medium |
 | [0231-power-of-two](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0268-missing-number/) | Easy |
+| [0342-power-of-four](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0342-power-of-four/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0477-total-hamming-distance](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0477-total-hamming-distance/) | Medium |
 | [0556-next-greater-element-iii](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0556-next-greater-element-iii/) | Medium |
@@ -161,6 +162,7 @@
 | [0268-missing-number](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0338-counting-bits](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0338-counting-bits/) | Easy |
+| [0342-power-of-four](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0342-power-of-four/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0461-hamming-distance](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0461-hamming-distance/) | Easy |
 | [0477-total-hamming-distance](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0477-total-hamming-distance/) | Medium |
@@ -280,6 +282,7 @@
 | ------- | ------- |
 | [0050-powx-n](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0050-powx-n/) | Medium |
 | [0231-power-of-two](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0231-power-of-two/) | Easy |
+| [0342-power-of-four](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0342-power-of-four/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |

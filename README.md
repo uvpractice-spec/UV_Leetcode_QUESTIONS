@@ -165,6 +165,7 @@
 | [0342-power-of-four](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0342-power-of-four/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0461-hamming-distance](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0461-hamming-distance/) | Easy |
+| [0476-number-complement](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0476-number-complement/) | Easy |
 | [0477-total-hamming-distance](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0477-total-hamming-distance/) | Medium |
 | [0645-set-mismatch](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0645-set-mismatch/) | Easy |
 ## Pigeonhole Principle

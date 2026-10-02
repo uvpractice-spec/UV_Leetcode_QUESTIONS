@@ -168,6 +168,7 @@
 | [0476-number-complement](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0476-number-complement/) | Easy |
 | [0477-total-hamming-distance](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0477-total-hamming-distance/) | Medium |
 | [0645-set-mismatch](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0645-set-mismatch/) | Easy |
+| [0693-binary-number-with-alternating-bits](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0693-binary-number-with-alternating-bits/) | Easy |
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
 | ------- | ------- |

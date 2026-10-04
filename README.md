@@ -138,6 +138,7 @@
 | [0645-set-mismatch](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0645-set-mismatch/) | Easy |
 | [0918-maximum-sum-circular-subarray](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
+| [1018-binary-prefix-divisible-by-5](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/1018-binary-prefix-divisible-by-5/) | Easy |
 | [1019-next-greater-node-in-linked-list](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
 | [1191-k-concatenation-maximum-sum](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/1191-k-concatenation-maximum-sum/) | Medium |
@@ -170,6 +171,7 @@
 | [0645-set-mismatch](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0645-set-mismatch/) | Easy |
 | [0693-binary-number-with-alternating-bits](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0693-binary-number-with-alternating-bits/) | Easy |
 | [0868-binary-gap](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0868-binary-gap/) | Easy |
+| [1018-binary-prefix-divisible-by-5](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/1018-binary-prefix-divisible-by-5/) | Easy |
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
 | ------- | ------- |

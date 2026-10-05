@@ -81,6 +81,7 @@
 | [0179-largest-number](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0179-largest-number/) | Medium |
 | [0205-isomorphic-strings](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0242-valid-anagram/) | Easy |
+| [0290-word-pattern](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0290-word-pattern/) | Easy |
 | [0443-string-compression](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0443-string-compression/) | Medium |
 | [0556-next-greater-element-iii](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0556-next-greater-element-iii/) | Medium |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/3170-lexicographically-minimum-string-after-removing-stars/) | Medium |
@@ -252,6 +253,7 @@
 | [0205-isomorphic-strings](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0268-missing-number/) | Easy |
+| [0290-word-pattern](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0290-word-pattern/) | Easy |
 | [0496-next-greater-element-i](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0496-next-greater-element-i/) | Easy |
 | [0525-contiguous-array](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0560-subarray-sum-equals-k/) | Medium |

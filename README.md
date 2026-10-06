@@ -55,6 +55,7 @@
 | [0067-add-binary](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0070-climbing-stairs/) | Easy |
+| [0171-excel-sheet-column-number](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0202-happy-number](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0202-happy-number/) | Easy |
 | [0204-count-primes](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0204-count-primes/) | Medium |
 | [0231-power-of-two](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0231-power-of-two/) | Easy |
@@ -78,6 +79,7 @@
 | [0058-length-of-last-word](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0067-add-binary/) | Easy |
 | [0125-valid-palindrome](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0125-valid-palindrome/) | Easy |
+| [0171-excel-sheet-column-number](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0179-largest-number](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0179-largest-number/) | Medium |
 | [0205-isomorphic-strings](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0242-valid-anagram/) | Easy |

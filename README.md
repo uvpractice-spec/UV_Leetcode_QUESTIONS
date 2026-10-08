@@ -85,6 +85,7 @@
 | [0242-valid-anagram](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0290-word-pattern/) | Easy |
 | [0383-ransom-note](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0383-ransom-note/) | Easy |
+| [0392-is-subsequence](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0392-is-subsequence/) | Easy |
 | [0443-string-compression](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0443-string-compression/) | Medium |
 | [0556-next-greater-element-iii](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0556-next-greater-element-iii/) | Medium |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/3170-lexicographically-minimum-string-after-removing-stars/) | Medium |
@@ -199,6 +200,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0202-happy-number](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0202-happy-number/) | Easy |
 | [0283-move-zeroes](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0283-move-zeroes/) | Easy |
+| [0392-is-subsequence](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0392-is-subsequence/) | Easy |
 | [0443-string-compression](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0443-string-compression/) | Medium |
 | [0556-next-greater-element-iii](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0556-next-greater-element-iii/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0876-middle-of-the-linked-list/) | Easy |
@@ -214,6 +216,7 @@
 | [0152-maximum-product-subarray](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0338-counting-bits](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0338-counting-bits/) | Easy |
 | [0377-combination-sum-iv](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0377-combination-sum-iv/) | Medium |
+| [0392-is-subsequence](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0392-is-subsequence/) | Easy |
 | [0416-partition-equal-subset-sum](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |

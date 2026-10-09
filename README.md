@@ -305,6 +305,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0092-reverse-linked-list-ii](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0092-reverse-linked-list-ii/) | Medium |
 | [0141-linked-list-cycle](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0142-linked-list-cycle-ii/) | Medium |

@@ -84,6 +84,7 @@
 | [0205-isomorphic-strings](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0290-word-pattern/) | Easy |
+| [0344-reverse-string](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0344-reverse-string/) | Easy |
 | [0383-ransom-note](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0383-ransom-note/) | Easy |
 | [0392-is-subsequence](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0392-is-subsequence/) | Easy |
 | [0443-string-compression](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0443-string-compression/) | Medium |
@@ -200,6 +201,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0202-happy-number](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0202-happy-number/) | Easy |
 | [0283-move-zeroes](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0283-move-zeroes/) | Easy |
+| [0344-reverse-string](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0344-reverse-string/) | Easy |
 | [0392-is-subsequence](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0392-is-subsequence/) | Easy |
 | [0443-string-compression](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0443-string-compression/) | Medium |
 | [0556-next-greater-element-iii](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0556-next-greater-element-iii/) | Medium |

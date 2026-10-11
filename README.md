@@ -86,6 +86,7 @@
 | [0290-word-pattern](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0290-word-pattern/) | Easy |
 | [0344-reverse-string](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0344-reverse-string/) | Easy |
 | [0383-ransom-note](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0383-ransom-note/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0392-is-subsequence/) | Easy |
 | [0443-string-compression](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0443-string-compression/) | Medium |
 | [0556-next-greater-element-iii](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0556-next-greater-element-iii/) | Medium |
@@ -263,6 +264,7 @@
 | [0268-missing-number](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0268-missing-number/) | Easy |
 | [0290-word-pattern](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0290-word-pattern/) | Easy |
 | [0383-ransom-note](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0383-ransom-note/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0496-next-greater-element-i](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0496-next-greater-element-i/) | Easy |
 | [0525-contiguous-array](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -333,6 +335,7 @@
 | ------- | ------- |
 | [0169-majority-element](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0169-majority-element/) | Easy |
 | [0383-ransom-note](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0383-ransom-note/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -340,6 +343,7 @@
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0918-maximum-sum-circular-subarray](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Monotonic Queue
 | Problem Name | Difficulty |

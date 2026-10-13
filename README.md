@@ -138,6 +138,7 @@
 | [0303-range-sum-query-immutable](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0377-combination-sum-iv](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0377-combination-sum-iv/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0456-132-pattern](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0456-132-pattern/) | Medium |
 | [0477-total-hamming-distance](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0477-total-hamming-distance/) | Medium |
 | [0496-next-greater-element-i](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0503-next-greater-element-ii/) | Medium |
@@ -289,6 +290,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0020-valid-parentheses/) | Easy |
+| [0456-132-pattern](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0456-132-pattern/) | Medium |
 | [0496-next-greater-element-i](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0503-next-greater-element-ii/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
@@ -324,6 +326,7 @@
 | [0035-search-insert-position](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0069-sqrtx/) | Easy |
 | [0268-missing-number](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0268-missing-number/) | Easy |
+| [0456-132-pattern](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0456-132-pattern/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -394,6 +397,7 @@
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0456-132-pattern](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0456-132-pattern/) | Medium |
 | [0496-next-greater-element-i](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0503-next-greater-element-ii/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
@@ -421,4 +425,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0069-sqrtx/) | Easy |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0456-132-pattern](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0456-132-pattern/) | Medium |
 <!---LeetCode Topics End-->

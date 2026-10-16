@@ -50,6 +50,7 @@
 | [0009-palindrome-number](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0009-palindrome-number/) | Easy |
 | [0012-integer-to-roman](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0013-roman-to-integer/) | Easy |
+| [0043-multiply-strings](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0043-multiply-strings/) | Medium |
 | [0050-powx-n](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0050-powx-n/) | Medium |
 | [0066-plus-one](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0067-add-binary/) | Easy |
@@ -75,6 +76,7 @@
 | [0022-generate-parentheses](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0022-generate-parentheses/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0038-count-and-say](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0038-count-and-say/) | Medium |
+| [0043-multiply-strings](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0043-multiply-strings/) | Medium |
 | [0049-group-anagrams](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0067-add-binary/) | Easy |
@@ -313,6 +315,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0043-multiply-strings](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0043-multiply-strings/) | Medium |
 | [0067-add-binary](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0067-add-binary/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |

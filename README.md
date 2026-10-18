@@ -57,6 +57,7 @@
 | [0069-sqrtx](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0070-climbing-stairs/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0171-excel-sheet-column-number/) | Easy |
+| [0172-factorial-trailing-zeroes](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0202-happy-number](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0202-happy-number/) | Easy |
 | [0204-count-primes](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0204-count-primes/) | Medium |
 | [0231-power-of-two](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0231-power-of-two/) | Easy |

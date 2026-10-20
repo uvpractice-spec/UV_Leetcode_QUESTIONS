@@ -135,6 +135,7 @@
 | [0136-single-number](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0137-single-number-ii/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0169-majority-element](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0169-majority-element/) | Easy |
 | [0179-largest-number](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0179-largest-number/) | Medium |
 | [0204-count-primes](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0204-count-primes/) | Medium |
@@ -339,6 +340,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0069-sqrtx/) | Easy |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0268-missing-number](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0268-missing-number/) | Easy |
 | [0456-132-pattern](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0456-132-pattern/) | Medium |
 ## Divide and Conquer

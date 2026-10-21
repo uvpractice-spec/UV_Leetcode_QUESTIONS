@@ -69,6 +69,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0012-integer-to-roman](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0013-roman-to-integer/) | Easy |
@@ -268,6 +269,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0012-integer-to-roman](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
@@ -445,4 +447,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0456-132-pattern](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0456-132-pattern/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 <!---LeetCode Topics End-->

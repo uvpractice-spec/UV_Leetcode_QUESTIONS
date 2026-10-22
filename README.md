@@ -93,6 +93,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0392-is-subsequence/) | Easy |
 | [0443-string-compression](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0443-string-compression/) | Medium |
+| [0451-sort-characters-by-frequency](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0556-next-greater-element-iii](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0556-next-greater-element-iii/) | Medium |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/3170-lexicographically-minimum-string-after-removing-stars/) | Medium |
 ## Sorting
@@ -106,6 +107,7 @@
 | [0179-largest-number](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0179-largest-number/) | Medium |
 | [0217-contains-duplicate](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0268-missing-number/) | Easy |
+| [0451-sort-characters-by-frequency](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0645-set-mismatch](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0645-set-mismatch/) | Easy |
 | [1340-jump-game-v](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/1340-jump-game-v/) | Hard |
 ## Array
@@ -284,6 +286,7 @@
 | [0290-word-pattern](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0290-word-pattern/) | Easy |
 | [0383-ransom-note](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0451-sort-characters-by-frequency](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0496-next-greater-element-i](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0496-next-greater-element-i/) | Easy |
 | [0525-contiguous-array](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -314,6 +317,7 @@
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/3170-lexicographically-minimum-string-after-removing-stars/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -359,6 +363,7 @@
 | [0169-majority-element](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0169-majority-element/) | Easy |
 | [0383-ransom-note](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0451-sort-characters-by-frequency](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0451-sort-characters-by-frequency/) | Medium |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -451,4 +456,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0451-sort-characters-by-frequency/) | Medium |
 <!---LeetCode Topics End-->

@@ -73,6 +73,7 @@
 | [0008-string-to-integer-atoi](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0012-integer-to-roman](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0013-roman-to-integer/) | Easy |
+| [0014-longest-common-prefix](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0014-longest-common-prefix/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0022-generate-parentheses/) | Medium |
@@ -114,6 +115,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0031-next-permutation/) | Medium |
@@ -463,4 +465,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0451-sort-characters-by-frequency/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->

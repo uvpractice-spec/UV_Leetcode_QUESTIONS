@@ -88,6 +88,7 @@
 | [0091-decode-ways](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0091-decode-ways/) | Medium |
 | [0097-interleaving-string](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0097-interleaving-string/) | Medium |
 | [0125-valid-palindrome](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0125-valid-palindrome/) | Easy |
+| [0139-word-break](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0139-word-break/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0179-largest-number](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0179-largest-number/) | Medium |
@@ -148,6 +149,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0136-single-number](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0137-single-number-ii/) | Medium |
+| [0139-word-break](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0139-word-break/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0169-majority-element](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0169-majority-element/) | Easy |
@@ -250,6 +252,7 @@
 | [0118-pascals-triangle](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0120-triangle](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0120-triangle/) | Medium |
+| [0139-word-break](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0139-word-break/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0338-counting-bits](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0338-counting-bits/) | Easy |
 | [0377-combination-sum-iv](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0377-combination-sum-iv/) | Medium |
@@ -291,6 +294,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0049-group-anagrams](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0049-group-anagrams/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0139-word-break](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0139-word-break/) | Medium |
 | [0141-linked-list-cycle](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0169-majority-element](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0169-majority-element/) | Easy |
@@ -463,6 +467,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0070-climbing-stairs/) | Easy |
+| [0139-word-break](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0139-word-break/) | Medium |
 ## Newton's Method
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -483,8 +488,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0014-longest-common-prefix/) | Easy |
+| [0139-word-break](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0139-word-break/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0128-longest-consecutive-sequence/) | Medium |
+## Brute-Force Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0139-word-break](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0139-word-break/) | Medium |
 <!---LeetCode Topics End-->

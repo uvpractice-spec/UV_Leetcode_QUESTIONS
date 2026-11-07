@@ -73,6 +73,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0006-zigzag-conversion](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0006-zigzag-conversion/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0008-string-to-integer-atoi/) | Medium |
+| [0010-regular-expression-matching](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0010-regular-expression-matching/) | Hard |
 | [0012-integer-to-roman](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0014-longest-common-prefix/) | Easy |
@@ -245,6 +246,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0010-regular-expression-matching](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0010-regular-expression-matching/) | Hard |
 | [0022-generate-parentheses](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0022-generate-parentheses/) | Medium |
 | [0045-jump-game-ii](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0053-maximum-subarray/) | Medium |
@@ -348,6 +350,7 @@
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0010-regular-expression-matching](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0010-regular-expression-matching/) | Hard |
 | [0021-merge-two-sorted-lists](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0050-powx-n](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0050-powx-n/) | Medium |
 | [0231-power-of-two](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0231-power-of-two/) | Easy |

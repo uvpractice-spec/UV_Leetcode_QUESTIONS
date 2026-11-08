@@ -113,6 +113,7 @@
 | [0016-3sum-closest](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0016-3sum-closest/) | Medium |
 | [0047-permutations-ii](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0047-permutations-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0049-group-anagrams/) | Medium |
+| [0056-merge-intervals](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0056-merge-intervals/) | Medium |
 | [0088-merge-sorted-array](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0169-majority-element/) | Easy |
 | [0179-largest-number](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0179-largest-number/) | Medium |
@@ -141,6 +142,7 @@
 | [0049-group-anagrams](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0055-jump-game/) | Medium |
+| [0056-merge-intervals](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0057-insert-interval/) | Medium |
 | [0066-plus-one](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0066-plus-one/) | Easy |
 | [0078-subsets](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0078-subsets/) | Medium |
@@ -506,4 +508,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0139-word-break](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0139-word-break/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0056-merge-intervals](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0056-merge-intervals/) | Medium |
 <!---LeetCode Topics End-->

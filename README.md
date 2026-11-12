@@ -72,6 +72,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0005-longest-palindromic-substring](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0006-zigzag-conversion](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0006-zigzag-conversion/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0010-regular-expression-matching](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0010-regular-expression-matching/) | Hard |
@@ -229,6 +230,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0015-3sum](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0016-3sum-closest/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
@@ -250,6 +252,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0010-regular-expression-matching](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0010-regular-expression-matching/) | Hard |
 | [0022-generate-parentheses](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0022-generate-parentheses/) | Medium |
 | [0045-jump-game-ii](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0045-jump-game-ii/) | Medium |
@@ -514,4 +517,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0056-merge-intervals/) | Medium |
+## Manacher
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0005-longest-palindromic-substring/) | Medium |
 <!---LeetCode Topics End-->

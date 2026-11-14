@@ -128,6 +128,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0001-two-sum/) | Easy |
+| [0004-median-of-two-sorted-arrays](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0014-longest-common-prefix](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0016-3sum-closest/) | Medium |
@@ -383,6 +384,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0033-search-in-rotated-sorted-array](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0069-sqrtx/) | Easy |
@@ -392,6 +394,7 @@
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0053-maximum-subarray](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0169-majority-element/) | Easy |
 | [0190-reverse-bits](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0190-reverse-bits/) | Easy |

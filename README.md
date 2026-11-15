@@ -353,6 +353,7 @@
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0451-sort-characters-by-frequency](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/3170-lexicographically-minimum-string-after-removing-stars/) | Medium |
 ## Recursion
@@ -374,6 +375,7 @@
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0023-merge-k-sorted-lists](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0024-swap-nodes-in-pairs](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0092-reverse-linked-list-ii](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0092-reverse-linked-list-ii/) | Medium |
@@ -395,6 +397,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0023-merge-k-sorted-lists](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0053-maximum-subarray](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0169-majority-element/) | Easy |
 | [0190-reverse-bits](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0190-reverse-bits/) | Easy |
@@ -526,4 +529,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Tournament Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0023-merge-k-sorted-lists/) | Hard |
 <!---LeetCode Topics End-->

@@ -148,6 +148,7 @@
 | [0055-jump-game](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0057-insert-interval/) | Medium |
+| [0064-minimum-path-sum](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0064-minimum-path-sum/) | Medium |
 | [0066-plus-one](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0066-plus-one/) | Easy |
 | [0078-subsets](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0078-subsets/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
@@ -260,6 +261,7 @@
 | [0045-jump-game-ii](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0055-jump-game/) | Medium |
+| [0064-minimum-path-sum](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0070-climbing-stairs/) | Easy |
 | [0091-decode-ways](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0091-decode-ways/) | Medium |
 | [0097-interleaving-string](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0097-interleaving-string/) | Medium |
@@ -540,4 +542,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0064-minimum-path-sum](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0064-minimum-path-sum/) | Medium |
 <!---LeetCode Topics End-->

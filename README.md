@@ -93,6 +93,7 @@
 | [0091-decode-ways](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0091-decode-ways/) | Medium |
 | [0097-interleaving-string](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0097-interleaving-string/) | Medium |
 | [0125-valid-palindrome](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0125-valid-palindrome/) | Easy |
+| [0131-palindrome-partitioning](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0139-word-break](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0139-word-break/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0171-excel-sheet-column-number/) | Easy |
@@ -268,6 +269,7 @@
 | [0118-pascals-triangle](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0120-triangle](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0120-triangle/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0139-word-break](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0139-word-break/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0338-counting-bits](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0338-counting-bits/) | Easy |
@@ -292,6 +294,7 @@
 | [0077-combinations](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0077-combinations/) | Medium |
 | [0078-subsets](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0090-subsets-ii/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0216-combination-sum-iii](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0216-combination-sum-iii/) | Medium |
 ## Knapsack Problem
 | Problem Name | Difficulty |

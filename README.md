@@ -89,6 +89,7 @@
 | [0043-multiply-strings](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0043-multiply-strings/) | Medium |
 | [0049-group-anagrams](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0058-length-of-last-word/) | Easy |
+| [0065-valid-number](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0065-valid-number/) | Hard |
 | [0067-add-binary](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0067-add-binary/) | Easy |
 | [0091-decode-ways](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0091-decode-ways/) | Medium |
 | [0097-interleaving-string](https://github.com/uvpractice-spec/UV_Leetcode_QUESTIONS/tree/main/0097-interleaving-string/) | Medium |
